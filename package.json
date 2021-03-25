@@ -14,7 +14,7 @@
     "bootstrap": "^4.5.1",
     "bootswatch": "^4.5.1",
     "grunt-contrib-concat": "^1.0.1",
-    "grunt-contrib-uglify": "^2.0.0",
+    "grunt-contrib-uglify": "^3.4.0",
     "grunt-contrib-uglify-es": "github:gruntjs/grunt-contrib-uglify#harmony",
     "grunt-filerev": "^2.3.1",
     "grunt-sass": "^3.1.0",
