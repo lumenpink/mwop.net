@@ -19,7 +19,7 @@
     "grunt-filerev": "^2.3.1",
     "grunt-sass": "^3.1.0",
     "grunt-usemin": "^3.1.1",
-    "jquery": "^3.5.1",
+    "jquery": "^3.6.0",
     "lunr": "^0.7.1",
     "node-sass": "^4.14.1",
     "popper.js": "^1.16.1"
